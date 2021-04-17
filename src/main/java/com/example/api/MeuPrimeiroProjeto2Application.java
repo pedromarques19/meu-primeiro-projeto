@@ -8,7 +8,7 @@ public class MeuPrimeiroProjeto2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MeuPrimeiroProjeto2Application.class, args);
-		System.out.println("Teste pra macho");
+		System.out.println("Teste pra machoo");
 	}
 
 }
